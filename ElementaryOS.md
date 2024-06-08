@@ -28,25 +28,36 @@ The last version of ElementaryOS require the following:
 
 ## Pasos
 
-### 1. Download the OS
+#### 1. Download the OS
 
 To download the OS go to the link [https://elementary.io/es/](https://elementary.io/es/).
 
-### 2. Set up the VM
+#### 2. Set up the VM
 
-The user created is `sebas` with password tales
 
 <p float="left" style="text-align:center">
-  <img src="images/mac.png" width="500" />
+  <img src="images/Elemetaryos_VM_requirements.png" width="500" />
 </p>
 
-### 3. Installing OS
+#### 3. Installing OS
 
-### 4. Finishing the OS Installation
+<p float="left" style="text-align:center">
+  <img src="images/elemntaryos_installing.png" width="500" />
+</p>
 
-### 5. Testing the OS
+#### 4. Finishing the OS Installation
+<p float="left" style="text-align:center">
+  <img src="images/elementaryos_finished.png" width="500" />
+</p>
 
-### 6. Evaluating the OS
+The user created is `saguileran` with password **123456789**.
+
+<p float="left" style="text-align:center">
+  <img src="images/elemntaryos_user.png" width="500" />
+</p>
+
+
+#### 5. Testing and Evaluating the OS
 
 Update
 Install an application or videogame
