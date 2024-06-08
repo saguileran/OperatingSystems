@@ -36,18 +36,18 @@ To download the OS go to the link [https://elementary.io/es/](https://elementary
 
 
 <p float="left" style="text-align:center">
-  <img src="images/Elemetaryos_VM_requirements.png" width="500" />
+  <img src="images/Elemetaryos_VM_requirements.png" width="800" />
 </p>
 
 #### 3. Installing OS
 
 <p float="left" style="text-align:center">
-  <img src="images/elemntaryos_installing.png" width="500" />
+  <img src="images/elemntaryos_installing.png" width="800" />
 </p>
 
 #### 4. Finishing the OS Installation
 <p float="left" style="text-align:center">
-  <img src="images/elementaryos_finished.png" width="500" />
+  <img src="images/elementaryos_finished.png" width="700" />
 </p>
 
 The user created is `saguileran` with password **123456789**.
