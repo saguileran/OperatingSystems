@@ -1,6 +1,7 @@
 # Informe Sobre la Instalación del Sistema Operativo Ubuntu en una Máquina Virtual
 
 **Curso:** Sistemas Operativos I
+
 **Instructor:** Sebastián Aguilera Novoa
 
 ---
