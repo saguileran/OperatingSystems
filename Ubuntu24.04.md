@@ -176,7 +176,7 @@ Como programador que usa Ubuntu todos los días, puedo decir que es una experien
 
 En resumen, Ubuntu es una excelente opción para cualquier programador. 
 
->[!IMPORTANT]
+>[!NOTE]
 >En lo personal amo y disfruto utilizar Ubuntu todos los días, facilita mucho mi trabajo y optimiza los procesos que debo llevar a cabo. Mi calificación es 11/10 <3
 
 ### 8. Referencias
